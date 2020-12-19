@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xavav\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xavav\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Observer.-1072586783.00" t="ExcludeRecursive" />
+    <e p="C:\Users\xavav\Desktop\Uni\Pattrns\Observer" t="IncludeFlat">
+      <e p="Observer.sln" t="IncludeFlat" />
+      <e p="ObserverCSharp" t="IncludeRecursive">
+        <e p="Account.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IObserver.cs" t="Include" />
+        <e p="ISubject.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ObserverCSharp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ObserverCSharp.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Subject.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
