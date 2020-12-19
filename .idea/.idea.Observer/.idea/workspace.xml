@@ -9,16 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815cc886-f7bf-4fb9-b8cc-a8f7aefc2402" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverCSharp/Account.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverCSharp/IObserver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverCSharp/ISubject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverCSharp/Subject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Observer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverCSharp/Account.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverCSharp/Account.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +26,8 @@
         <option value="$PROJECT_DIR$/ObserverCSharp/Program.cs" />
         <option value="$PROJECT_DIR$/ObserverCSharp/IObserver.cs" />
         <option value="$PROJECT_DIR$/ObserverCSharp/ISubject.cs" />
-        <option value="$PROJECT_DIR$/ObserverCSharp/Account.cs" />
         <option value="$PROJECT_DIR$/ObserverCSharp/Subject.cs" />
+        <option value="$PROJECT_DIR$/ObserverCSharp/Account.cs" />
       </list>
     </option>
   </component>
@@ -78,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608403517223</updated>
-      <workItem from="1608403525246" duration="2138000" />
+      <workItem from="1608403525246" duration="2950000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1608403652847</created>
